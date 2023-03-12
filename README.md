@@ -33,11 +33,11 @@ Password: lemon@786!
 
 ## Built With
 
-Python - The programming language used
-Django - The web framework used
-SQLite - The database used
-HTML - The markup language used for the website
-CSS - The styling language used for the website
+- Python - The programming language used
+- Django - The web framework used
+- SQLite - The database used
+- HTML - The markup language used for the website
+- CSS - The styling language used for the website
 
 
 Project created during Meta Django web framework Course.
