@@ -1,23 +1,25 @@
-Django Restaurant Website
+# Django Restaurant Website
+
 This project is a responsive website for a restaurant that allows customers to place orders online. The orders are saved in a SQLite database. The website was created to apply Python, Django, SQL, HTML, and CSS skills.
 
-Getting Started
+## Getting Started
+
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 
-Prerequisites
+### Prerequisites
+
 Before you begin, make sure you have the following software installed:
 
 Python 3
 Django 3
 SQLite
 
-Features
+### Features
+
 The website has the following features:
 
-Home page with information about the restaurant and a menu
-Order page where customers can select items from the menu and place orders
-Order confirmation page that displays the order details and a confirmation number
-Admin page where restaurant staff can view and manage orders
+- Home page with information about the restaurant and a menu
+- Order page where customers can make orders
 
 In the admin panel, you can:
 
@@ -29,7 +31,8 @@ You can access the admin panel ( http://localhost:8000/admin/) with the followin
 Username: bistroadmin
 Password: lemon@786!
 
-Built With
+## Built With
+
 Python - The programming language used
 Django - The web framework used
 SQLite - The database used
