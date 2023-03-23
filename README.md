@@ -1,5 +1,7 @@
 # Django Restaurant Website
 
+![Sem título](https://user-images.githubusercontent.com/115668940/227370752-faf47594-dc1f-4afa-83fb-e98eccd9bb8b.png)
+
 This project is a responsive website for a restaurant that allows customers to place orders online. The orders are saved in a SQLite database. The website was created to apply Python, Django, SQL, HTML, and CSS skills.
 
 ## Getting Started
